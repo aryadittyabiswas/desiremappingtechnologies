@@ -1,38 +1,38 @@
 Desire Mapping Technologies is a modern, full-service digital marketing agency website designed to showcase services, portfolio, and client engagement solutions in a sleek and interactive way. This project represents a complete web presence for a results-driven marketing agency focused on branding, growth, and digital transformation.
 
-Project Overview : 
+🚀 Project Overview : 
 This website is built to deliver a seamless user experience while highlighting the agency’s expertise in digital marketing, creative design, and technology solutions. It combines modern UI/UX principles with performance optimization to ensure fast, responsive, and engaging interactions across all devices.
 
-Core Features : 
-Service Showcase
+💼 Core Features : 
+🎯 Service Showcase
 Detailed sections for Digital Marketing, SEO, Social Media Management, Paid Ads, Web Development, and Branding.
-Modern UI/UX Design
+🎨 Modern UI/UX Design
 Clean layouts, smooth animations, and visually appealing components for a professional look.
-Fully Responsive Design
+📱 Fully Responsive Design
 Optimized for desktop, tablet, and mobile devices.
-Interactive Portfolio Section
+🧑‍💻 Interactive Portfolio Section
 Displays previous projects, case studies, and creative work.
-Contact & Lead Generation Forms
+📩 Contact & Lead Generation Forms
 Integrated forms for client inquiries and business communication.
-Performance Optimized
+⚡ Performance Optimized
 Fast loading speeds with optimized assets and efficient coding practices.
-SEO-Friendly Structure
+🔍 SEO-Friendly Structure
 Built with best practices to improve search engine visibility.
 
-Tech Stack : 
+🛠️ Tech Stack : 
 Frontend: HTML5, CSS3, JavaScript
 Frameworks/Libraries: (Optional – React / Tailwind CSS / Bootstrap if used)
 Backend: (Optional – Node.js / PHP / Firebase if applicable)
-Tools: Git, GitHub, VS Codde
+Tools: Git, GitHub, VS Code
 
-Purpose of the Project : 
+🎯 Purpose of the Project : 
 The goal of this project is to create a strong digital identity for Desire Mapping Technologies, enabling businesses to explore services, view proven results, and easily connect for collaborations.
 
-Highlights
+🌟 Highlights : 
 Business-focused design strategy
 Conversion-oriented layout
 Scalable and customizable architecture
-Suitable for startups, agencies, and enterprise-level clients  
+Suitable for startups, agencies, and enterprise-level clients
 
 Installation & Setup : 
 Clone the repository:
